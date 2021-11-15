@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quetzaltli
-- 👀 I’m interested in GEography analysis with R
-- 🌱 I’m currently learning Python and machine learning
+- 👀 I’m interested in Statistics analysis with R
+- 🌱 I’m currently learning Shiny
 - 💞️ I’m looking to collaborate on mapping and data analysis
 - 📫 How to reach me quetzalli.martinem@gmail.com
 
